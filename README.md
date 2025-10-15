@@ -6,7 +6,7 @@
 你可以通过克隆此仓库到你的本地机器来开始：
 
 ```shell
-git clone https://github.com/DjangoPeng/deepseek-quickstart.git
+[git clone https://github.com/liufengaarr/deepseek-quickstart.git]
 ```
 
 然后导航至目录，并按照单个模块的指示开始操作。
